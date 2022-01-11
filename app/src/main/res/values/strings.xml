@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BodyWorkoutApp</string>
+    <string-array name="workout_types">
+        <item>None</item>
+        <item>Upper Body</item>
+        <item>Core/Abs</item>
+        <item>Lower Body</item>
+    </string-array>
+</resources>
